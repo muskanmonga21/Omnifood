@@ -40,8 +40,9 @@ Medium: 12px
 
 --- 07 WHITESPACE
 
-- SPACING SYSTEM (px)
+- SPACING SYSTEM (px) 
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 */
+
 * {
   margin: 0;
   padding: 0;
