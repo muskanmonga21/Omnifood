@@ -54,6 +54,9 @@ html {
   /* Percentage of user's browser font size setting */
   font-size: 62.5%;
   overflow-x: hidden;
+
+  /* Does Safari work on Safari */
+  /* scroll-behavior: smooth; */
 }
 body {
   font-family: "Rubik", sans-serif;
@@ -218,7 +221,7 @@ body {
 /* HELPER/SETTING CLASSES */
 
 .margin-right-sm {
-  margin-right: 1.6rem; /*Important! */
+  margin-right: 1.6rem !important;
 }
 .margin-bottom-md {
   margin-bottom: 4.8rem !important;
